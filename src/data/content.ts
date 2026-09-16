@@ -14,7 +14,7 @@ tagline:
   email: "mithramadhu777@gmail.com",
   phone: "+91 8667673037",
   resumeUrl: "/assets/Madhumithra_Resume.pdf",
-  photoUrl: "/assets/profile.jpg",
+  photoUrl: "/assets/profile.jpeg",
   status: "Building Secure & AI-Powered Software",
 };
 
